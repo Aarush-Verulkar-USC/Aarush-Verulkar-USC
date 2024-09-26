@@ -1,4 +1,4 @@
-![alt text](images/mario.gif)
+![alt text](https://github.com/Aarush-Verulkar-USC/Aarush-Verulkar-USC/blob/main/mario.gif?raw=true)
 
 # 💫 About Me:
 🔭 I’m currently working on Continual Learning in Image Classification.<br><br>🌱 I’m currently learning Algorithms and Deep Learning. <br><br>📫 How to reach me : verulkar@usc.edu <br>
