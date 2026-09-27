@@ -1,12 +1,10 @@
 ### Hi, I'm Aarush Verulkar.
 
-![Banner](mario.gif)
 -------
-
 - 👨‍💻 I'm a software engineer who enjoys backend systems and applied machine learning.
 - 🎓 I earned my M.S. in Computer Science at the [University of Southern California](https://www.usc.edu/).
-- 🔬 At USC Viterbi, I worked on an ML-based student triage system.
-- 🌱 I contribute to [Zulip](https://github.com/zulip/zulip) and I believe in free software.
+- 🔬 At USC Viterbi, I worked on a Mental Health Chatbot System.
+- 🌱 I am learning Open Source Development.
 - 🔭 I'm looking for early-career software engineering and ML roles.
 
 [LinkedIn](https://www.linkedin.com/in/aarush-verulkar) | [Website](https://aarushverulkar.dev) | [Email](mailto:verulkar.aarush@gmail.com)
